@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: /Users/cam/Desktop/csc413-tankgame-meganpowers/src/
+Main-Class: GameObject.MainRoom
+
